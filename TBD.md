@@ -27,8 +27,12 @@ API designed to be easy to use.
 на терраформе и ансибле
 <spiralnet> Done! Congratulations on your new bot. You will find it at t.me/MetaExchangeBot. 
 ```
+
+## 2. A libertarian meritocracy: LIFEDAO, LibertarianLife network, LibertarianMessenger
+
+Моя решил фигачить нашу собственную меритократию анархическую https://mastodon.ml/@math/106920789419104729
   
-## 2. infinitesimalium cryptocurrency reference implementation
+## 3. infinitesimalium cryptocurrency reference implementation linked with LIFEDAO, LibertarianLife network, LibertarianMessenger
 
 ```
 <WebClient81> подскаже где взять  btc я поделюсь ;-)
