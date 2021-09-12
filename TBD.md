@@ -33,6 +33,8 @@ API designed to be easy to use.
 ```
 ‎[:00:59] ‎spiralnet‎: сюда тоже нада моих ботов протянуть криптовалютных
 ‎[:01:05] ‎spiralnet‎: прям в хмпп чатег скома, в ирц маги и в ирц илитка
+‎[:01:34] ‎x‎: Почему нет. Ском запрет не ставил!
+‎[:04:13] ‎spiralnet‎: да он рад будет если тут будет торговля гостиками
 ```
 
 ## 2. A libertarian meritocracy: LIFEDAO, LibertarianLife network, LibertarianMessenger
