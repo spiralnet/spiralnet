@@ -28,6 +28,12 @@ API designed to be easy to use.
 <spiralnet> Done! Congratulations on your new bot. You will find it at t.me/MetaExchangeBot. 
 ```
 
+### 1a. щчупальца
+
+```
+‎[:00:59] ‎spiralnet‎: сюда тоже нада моих ботов протянуть криптовалютных
+‎[:01:05] ‎spiralnet‎: прям в хмпп чатег скома, в ирц маги и в ирц илитка
+```
 
 ## 2. A libertarian meritocracy: LIFEDAO, LibertarianLife network, LibertarianMessenger
 
