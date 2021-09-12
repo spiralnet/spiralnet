@@ -28,9 +28,27 @@ API designed to be easy to use.
 <spiralnet> Done! Congratulations on your new bot. You will find it at t.me/MetaExchangeBot. 
 ```
 
+
 ## 2. A libertarian meritocracy: LIFEDAO, LibertarianLife network, LibertarianMessenger
 
-Моя решил фигачить нашу собственную меритократию анархическую https://mastodon.ml/@math/106920789419104729
+Моя решил фигачить нашу собственную меритократию анархическую 
+
+Freegram - Free/Libertarian Opensource Mtproto Messenger with Opensource Server based on NebulaChat and Telegram.
+
+https://github.com/i2pgram
+
+Current Project Status:
+
+ * Many bugs to fix at NebulaChat server before it will be useful. Without bug fixes, it's even impossible to protect an user account with a password.
+ * The chinese author of nebulachat has archived his chatengine repo (which is the main for Nebula). 
+
+This work is to be incorporated into https://github.com/LibertarianMessenger forked from https://bisq.network/ and its meritocratic BisqDAO as our own LIFEDAO.
+
+current events:
+
+ * i resume work on freegram asap
+ * though.... i will better spend some time on https://github.com/orgs/spiralnet/projects/1 https://github.com/spiralnet/metaexchangebot/issues to gather some advertizing money for my food and beer, and to fuel the development efforts.
+  
   
 ## 3. infinitesimalium cryptocurrency reference implementation linked with LIFEDAO, LibertarianLife network, LibertarianMessenger
 
