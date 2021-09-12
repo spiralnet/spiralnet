@@ -35,6 +35,7 @@ API designed to be easy to use.
 ‎[:01:05] ‎spiralnet‎: прям в хмпп чатег скома, в ирц маги и в ирц илитка
 ‎[:01:34] ‎x‎: Почему нет. Ском запрет не ставил!
 ‎[:04:13] ‎spiralnet‎: да он рад будет если тут будет торговля гостиками
+‎[:05:15] x: spiralnet: так жги! Мануал приложи только. Ps в переводе)
 ```
 
 ## 2. A libertarian meritocracy: LIFEDAO, LibertarianLife network, LibertarianMessenger
