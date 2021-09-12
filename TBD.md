@@ -1,5 +1,32 @@
 # TBD --- To Be Done
 
+## 1. metaexchangebot reference implementation
+
+```
+```
+<spiralnet> Митхун_Чакраборти, у меня такая идея родилась - набрать апи разных бирж и менять из телеграм бота на них. А монетизировать рекламой как БородачКлуб
+<Митхун_Чакраборти> свежо
+<Митхун_Чакраборти> вот у меня тут рядом сидит целая контора подобным занимается
+<Митхун_Чакраборти> https://ru.tradingview.com/markets/cryptocurrencies/
+<botty> Title: Курс биткоина и альткоинов – Рынок криптовалют — TradingView
+<Митхун_Чакраборти> эх, походу зарубил я идею на корню ((
+<spiralnet> Node Binance API is an asynchronous node.js library for the Binance API designed to be easy to use.
+<spiralnet> Stars
+<spiralnet> 1,179
+<spiralnet> <Митхун_Чакраборти> эх, походу зарубил я идею на корню (( ---- это трейдеры. а у меня будет для леммингов
+<spiralnet> для рядовых юзеров телеграма
+<NGT> для рачья
+<пoлосаттва> !q 1642
+<botty> 2021-09-12:(1642/1645 пoлосаттва) *вдонатьте котику на пиццу 4274320036926122*
+<NGT> ----------
+<NGT> рачьё в телеге будет менять
+<spiralnet> NGT, или в ирц
+<spiralnet> крч лоад балансер и на нём толпа рест микросервисов. и всё это на этом самомм... на терраформе и ансибле
+<spiralnet> Done! Congratulations on your new bot. You will find it at t.me/MetaExchangeBot. 
+```
+  
+## 2. infinitesimalium cryptocurrency reference implementation
+
 ```
 <WebClient81> подскаже где взять  btc я поделюсь ;-)
 <spiralnet> эээ ну проектов у меня океан... а инвесторов мы привлекать будем. типа облигаций чёнть фиганём 25%
